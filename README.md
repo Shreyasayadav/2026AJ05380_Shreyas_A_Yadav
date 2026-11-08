@@ -20,7 +20,7 @@ The dataset is used to train and evaluate five classification models.
 
 ## 3. GitHub Repository Link
 
-Repository Link: https://shreyasayadav-2026aj05380-shreyas-a-yadav-app-ouit1a.streamlit.app/
+Repository Link: https://github.com/Shreyasayadav/2026AJ05380_Shreyas_A_Yadav
 
 ## 4. Models Used and Evaluation
 
